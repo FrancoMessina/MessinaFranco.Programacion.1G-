@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635200776 source:c:\users\franc\desktop\messinafranco.programacion.1g-\messinafranco.programacion1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
